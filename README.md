@@ -39,7 +39,7 @@ Test results are located at `target/site/serenity/index.html`
        ├── java/in.co.gorest.api
        │       ├── gherkinsDefinitions   # Gherkins definitions 
        │       ├── requestBodies         # Request bodies
-       │       ├── serenityRunner        # Execution settings/Hooks
+       │       ├── serenityRunner        # Execution settings
        │       └── serenitySteps         # Step implementation         
        └── resources
                ├── data                  # .json data files
