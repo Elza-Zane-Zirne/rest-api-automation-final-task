@@ -1,0 +1,6 @@
+{
+  "email": "$EMAIL",
+  "name": "$NAME",
+  "gender": "$GENDER",
+  "status": "$STATUS"
+}

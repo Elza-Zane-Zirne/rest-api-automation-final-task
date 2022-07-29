@@ -1,0 +1,6 @@
+in/co/gorest/api/serenitySteps/UserSteps.class
+in/co/gorest/api/gherkinsDefinitions/UserDefinitions.class
+in/co/gorest/api/requestBodies/UserRequestBody.class
+in/co/gorest/api/gherkinsDefinitions/CommonDefinitions.class
+in/co/gorest/api/serenitySteps/CommonSteps.class
+in/co/gorest/api/serenityRunner/TestRunner.class

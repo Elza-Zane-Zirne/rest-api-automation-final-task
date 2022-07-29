@@ -1,0 +1,5 @@
+{
+  "email": "$EMAIL",
+  "name": "$NAME",
+  "status": "$STATUS"
+}
